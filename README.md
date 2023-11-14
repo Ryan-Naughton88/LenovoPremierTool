@@ -6,7 +6,7 @@ The **Lenovo Premier Tool** is a Python script utilizing the `customtkinter` lib
 
 ## The GUI
 
-![Lenovo Premier Tool Screenshot](Images/Premier Tool Snippit.png)
+![Lenovo Premier Tool Screenshot](Images/Premier-Tool-Screenshot.png)
 
 ## Features
 
