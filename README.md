@@ -4,6 +4,10 @@
 
 The **Lenovo Premier Tool** is a Python script utilizing the `customtkinter` library and `win32com.client` for creating and managing templates and emails related to Lenovo Premier Technical Support. The tool provides a graphical user interface (GUI) for users to input customer and case information, as well as generate various templates and emails for different scenarios.
 
+## The GUI
+
+![Lenovo Premier Tool Screenshot](Images/Premier-Tool-Snippit.png)
+
 ## Features
 
 1. **Customer Info:**
